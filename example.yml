@@ -1,0 +1,3 @@
+services:
+  - path: /
+    backend: http://localhost:4000
